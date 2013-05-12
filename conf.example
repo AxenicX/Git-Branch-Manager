@@ -1,0 +1,14 @@
+<?php
+
+return array(
+    'progects' => array(
+        array(
+            'name' => 'Test server 1',
+            'path' => '/home/testuser/www/test.example.com'//path to roor site dirrectory
+        ),
+        array(
+            'name' => 'Test server 2',
+            'path' => '../'
+        ),
+    )
+);
